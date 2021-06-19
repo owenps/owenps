@@ -6,14 +6,12 @@
 <a href="https://www.linkedin.com/in/owenpsmith/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:owen.smith@mail.mcgill.ca"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
 
-My name is Owen Smith, I am a Computer Science student at McGill 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/400px-McGill_University_CoA.svg.png" width="11"/>
-University 
-in Montreal, Canada. I focus on building solutions and analyizing data using Machine Learning and AI. 
+My name is Owen Smith, I am a Computer Science currently based in Toronto. I focus on building solutions and analyizing data using Machine Learning and AI. 
 I'm always looking for opportunities to leverage those tools.  
 
 In my free time, I love working on passion projects, researching, and learning new technologies to improve my skillsets.
 
+- Computer Science at McGill University in Montreal, Canada <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/400px-McGill_University_CoA.svg.png" width="11"/> 
 - Currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and 
 completing the [Azure Data Science Associate Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
 - Check out my [resume](https://owensmith.page/pdf/OwenSmith_Resume.pdf)
