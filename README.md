@@ -78,4 +78,4 @@ An iOS application that uses Swift and Optical Character Recognition to convert 
 A mathmatical paper proving the appearance of the Sierpinski Triangle within the Sierpinski Chaos Game. 
 
 ## Statistics:
-[![Owen Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenps&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/daylamtayari)
+[![Owen Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenps&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/owenps)
