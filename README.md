@@ -12,7 +12,7 @@ University
 in Montreal, Canada. I focus on building solutions and analyizing data using Machine Learning and AI. 
 I'm always looking for opportunities to leverage those tools.  
 
-In my free time, I love working on passion projects, researching, exploring and learning new technologies to improve my skillsets.
+In my free time, I love working on passion projects, researching, and learning new technologies to improve my skillsets.
 
 - Currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and 
 completing the [Azure Data Science Associate Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
