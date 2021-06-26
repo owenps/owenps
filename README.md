@@ -78,7 +78,7 @@ A mathmatical paper proving the appearance of the Sierpinski Triangle within the
 [![Owen Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenps&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/owenps)
 
 
-### Support Me:
+## Support Me:
 Everything I include here is open source and available for all. If you enjoy a particular project, leaving a :star: on the repository is more than generous. For those who wish to support a little more, you can buy me a coffee ☕ to fuel future projects and goals. 
 
 <a href="https://www.buymeacoffee.com/owensmith"><img src="https://img.shields.io/badge//owensmith-%2300457C.svg?&style=for-the-badge&logo=BuyMeACoffee&logoColor=white&labelColor=black"></a> 
