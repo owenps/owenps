@@ -55,6 +55,9 @@ completing the [Azure Data Science Associate Certification](https://docs.microso
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&labelColor=black&logo=Eclipse-IDE&logoColor=white)
 
 ## Projects:
+🔬 **[**Castlemates**](https://github.com/owenps/Castlemates)** - 
+A Python script which finds chess games that end in a checkmate from castling.
+
 :zap: **[**ParallelPlanners.jl**](https://github.com/owenps/ParallelPlanners.jl)** - 
 An implementation of classical planners optimized for running on GPUs.
 
