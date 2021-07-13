@@ -17,6 +17,31 @@ completing the [Azure Data Science Associate Certification](https://docs.microso
 - Check out my [resume](https://owensmith.page/pdf/OwenSmith_Resume.pdf)
 - Feel free to contact me about new projects, opportunities, or any questions you may have
 
+## Projects:
+👑 **[**Castlemates**](https://github.com/owenps/Castlemates)** - 
+A Python script which finds chess games that end in a checkmate from castling.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=Castlemates&show_icons=true&theme=graywhite)](https://github.com/owenps/Castlemates)
+
+:zap: **[**ParallelPlanners.jl**](https://github.com/owenps/ParallelPlanners.jl)** - 
+An implementation of classical planners optimized for running on GPUs.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=ParallelPlanners.jl&show_icons=true&theme=graywhite)](https://github.com/owenps/ParallelPlanners.jl)
+
+:movie_camera: **[**Moist Meter**](https://github.com/owenps/MoistMeter)** -
+A entainment rating website dedicated to the Moist Meter series on YouTube. Built with Firebase, Javascript, and Bootstrap.
+
+:chess_pawn: **[**RhinoChess**](https://github.com/owenps/RhinoChess)** -
+A deep learning Chess Engine that uses a modified alpha-beta search algorithm that determines winning positions with 97% accuracy. Built in Python under the PyTorch deep learning framework.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=RhinoChess&show_icons=true&theme=graywhite)](https://github.com/owenps/RhinoChess)
+
+:avocado: **[**RecipEasy**](https://github.com/owenps/RecipEasy)** -
+An iOS application that uses Swift and Optical Character Recognition to convert a handwritten ingredient list into a list a possible recipes.
+
+:page_facing_up: **[**ChaosGame**](https://github.com/owenps/ChaosGame)** -
+A mathmatical paper proving the appearance of the Sierpinski Triangle within the Sierpinski Chaos Game. 
+
 ## Languages, Technologies and Tools:
 
 ### Languages:
@@ -54,30 +79,6 @@ completing the [Azure Data Science Associate Certification](https://docs.microso
 ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&labelColor=black&logo=IntelliJ-IDEA&logoColor=white)
 ![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&labelColor=black&logo=Eclipse-IDE&logoColor=white)
 
-## Projects:
-👑 **[**Castlemates**](https://github.com/owenps/Castlemates)** - 
-A Python script which finds chess games that end in a checkmate from castling.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=Castlemates&show_icons=true&theme=graywhite)](https://github.com/owenps/Castlemates)
-
-:zap: **[**ParallelPlanners.jl**](https://github.com/owenps/ParallelPlanners.jl)** - 
-An implementation of classical planners optimized for running on GPUs.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=ParallelPlanners.jl&show_icons=true&theme=graywhite)](https://github.com/owenps/ParallelPlanners.jl)
-
-:movie_camera: **[**Moist Meter**](https://github.com/owenps/MoistMeter)** -
-A entainment rating website dedicated to the Moist Meter series on YouTube. Built with Firebase, Javascript, and Bootstrap.
-
-:chess_pawn: **[**RhinoChess**](https://github.com/owenps/RhinoChess)** -
-A deep learning Chess Engine that uses a modified alpha-beta search algorithm that determines winning positions with 97% accuracy. Built in Python under the PyTorch deep learning framework.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=RhinoChess&show_icons=true&theme=graywhite)](https://github.com/owenps/RhinoChess)
-
-:avocado: **[**RecipEasy**](https://github.com/owenps/RecipEasy)** -
-An iOS application that uses Swift and Optical Character Recognition to convert a handwritten ingredient list into a list a possible recipes.
-
-:page_facing_up: **[**ChaosGame**](https://github.com/owenps/ChaosGame)** -
-A mathmatical paper proving the appearance of the Sierpinski Triangle within the Sierpinski Chaos Game. 
 
 ## Statistics:
 [![Owen Smith's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenps&show_icons=true&theme=graywhite&count_private=true&hide=issues,contribs)](https://github.com/owenps)
