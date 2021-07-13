@@ -58,6 +58,8 @@ completing the [Azure Data Science Associate Certification](https://docs.microso
 👑 **[**Castlemates**](https://github.com/owenps/Castlemates)** - 
 A Python script which finds chess games that end in a checkmate from castling.
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=owenps&repo=Castlemates&show_icons=true&theme=graywhite)](https://github.com/owenps/Castlemates)
+
 :zap: **[**ParallelPlanners.jl**](https://github.com/owenps/ParallelPlanners.jl)** - 
 An implementation of classical planners optimized for running on GPUs.
 
