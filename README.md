@@ -19,7 +19,7 @@ completing the [Azure Data Science Associate Certification](https://docs.microso
 
 ## Projects:
 📊 **[**Chess Line Analysis**](https://github.com/owenps/Chess-Line-Analysis)** - 
-A Python script which statistically analyzes chess games to help you better study particular openings. 
+A Python script which statistically analyzes chess games to help you better study particular openings. The script communicates with the [Lichess Opening Explorer API](https://lichess.org/api#tag/Opening-Explorer) to collect data. 
 
 👑 **[**Castlemates**](https://github.com/owenps/Castlemates)** - 
 A Python script which finds chess games that end in a checkmate from castling.
