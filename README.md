@@ -18,6 +18,9 @@ completing the [Azure Data Science Associate Certification](https://docs.microso
 - Feel free to contact me about new projects, opportunities, or any questions you may have
 
 ## Projects:
+📊 **[**Chess Line Analysis**](https://github.com/owenps/Chess-Line-Analysis)** - 
+A Python script which statistically analyzes chess games to help you better study particular openings. 
+
 👑 **[**Castlemates**](https://github.com/owenps/Castlemates)** - 
 A Python script which finds chess games that end in a checkmate from castling.
 
