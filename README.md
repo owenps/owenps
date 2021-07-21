@@ -2,7 +2,7 @@
   
 <a href="https://github.com/owenps/owenps"><img src="https://komarev.com/ghpvc/?username=owenps&color=orange&style=flat-square&label=Views:" height=28/></a>
 <a href="https://owensmith.page"><img src="https://img.shields.io/badge/WEBSITE-%23FF7139.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://owensmith.page"><img src="https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white"/></a>
+<a href="https://owensmith.page/assets/pdf/OwenSmith_Resume.pdf"><img src="https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/owenpsmith/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:owen.smith@mail.mcgill.ca"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
 
@@ -14,7 +14,7 @@ In my free time, I love working on passion projects, researching, and learning n
 - Computer Science at McGill University in Montreal, Canada <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/29/McGill_University_CoA.svg/400px-McGill_University_CoA.svg.png" width="11"/> 
 - Currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and 
 completing the [Azure Data Science Associate Certification](https://docs.microsoft.com/en-us/learn/certifications/azure-data-scientist/)
-- Check out my [resume](https://owensmith.page)
+- Check out my [resume](https://owensmith.page/assets/pdf/OwenSmith_Resume.pdf)
 - Feel free to contact me about new projects, opportunities, or any questions you may have
 
 ## Projects
