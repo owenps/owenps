@@ -1,5 +1,3 @@
-# Welcome! :wave:
-  
 <a href="https://github.com/owenps/owenps"><img src="https://komarev.com/ghpvc/?username=owenps&color=orange&style=flat-square&label=Views:" height=28/></a>
 <a href="https://owensmith.page"><img src="https://img.shields.io/badge/WEBSITE-%23FF7139.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://owensmith.page/assets/pdf/OwenSmith_Resume.pdf"><img src="https://img.shields.io/badge/Resume-%23E01F3D.svg?&style=for-the-badge&logoColor=white"/></a>
