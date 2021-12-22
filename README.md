@@ -8,11 +8,13 @@
 
 My name is Owen Smith. I focus on building solutions and analyizing data using Machine Learning and AI. In March I'll be joining Amazon in Toronto as a Software Development Engineer. 
 
+I'm currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and [DeepRacer](https://aws.amazon.com/deepracer/)  
+
 In my free time, I love working on passion projects, researching, and learning new technologies to improve my skillsets. I'm always happy to talk about new project, opportunities, or any questions you may have. 
 
 <details>
   <summary> <b> More about me </b> </summary>
   
   * Computer Science @ McGill University (Class 2021) 
-  * Currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and [DeepRacer](https://aws.amazon.com/deepracer/)  
+  
 </details>
