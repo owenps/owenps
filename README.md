@@ -4,7 +4,9 @@
 <a href="https://www.linkedin.com/in/owenpsmith/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:owen.smith@mail.mcgill.ca"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white"/></a> 
 
-My name is Owen Smith. I focus on building solutions and analyizing data using Machine Learning and AI. In March I'll be joining Amazon in Toronto as a Software Development Engineer. 
+<img align="right" src="https://media4.giphy.com/media/iKETB1MBCKFLG/giphy.gif?cid=ecf05e472y4reser0ui23zrfce1zo39gag923vwknr45ucmq&rid=giphy.gif&ct=g">
+
+My name is Owen Smith. I focus on building solutions and analyizing data using Machine Learning and AI. In March I'll be joining Amazon in Toronto as a Software Development Engineer.
 
 I'm currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and [DeepRacer](https://aws.amazon.com/deepracer/)  
 
@@ -13,6 +15,6 @@ In my free time, I love working on passion projects, researching, and learning n
 <details>
   <summary> <b> More about me </b> </summary>
   
-  * Computer Science @ McGill University (Class 2021) 
+  * Computer Science @ McGill University (Class of 2021) 
   
 </details>
