@@ -10,7 +10,7 @@ My name is Owen Smith. I focus on building solutions and analyizing data using M
 
 If you are currently applying to software developer positions, consider checking out my [free crash course](https://github.com/owenps/owenps/blob/main/Technical_Interview_Crashcourse.pdf). 
 
-I'm currently working on [Classical Planning on GPUs](https://github.com/owenps/ParallelPlanners.jl) and [DeepRacer](https://aws.amazon.com/deepracer/)  
+I'm currently working on [AWS DeepRacer](https://aws.amazon.com/deepracer/)  
 
 I'm always happy to talk about new project, opportunities, or any questions you may have. 
 
