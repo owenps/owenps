@@ -6,11 +6,11 @@
 
 <img align="right" src="https://media4.giphy.com/media/iKETB1MBCKFLG/giphy.gif?cid=ecf05e472y4reser0ui23zrfce1zo39gag923vwknr45ucmq&rid=giphy.gif&ct=g">
 
-My name is Owen Smith. I focus on building solutions and analyizing data using Machine Learning and AI. In May I'll be joining Amazon in Toronto as a Software Development Engineer. 
+My name is Owen Smith. I focus on building solutions and analyizing data using Machine Learning and AI. I'm currently working at Amazon in Toronto as a Software Development Engineer. 
 
 If you are currently applying to software developer positions, consider checking out my [free crash course](https://github.com/owenps/owenps/blob/main/Technical_Interview_Crashcourse.pdf). 
 
-I'm currently working on [AWS DeepRacer](https://aws.amazon.com/deepracer/)  
+I currently don't have any active projects.
 
 I'm always happy to talk about new project, opportunities, or any questions you may have. 
 
