@@ -11,7 +11,7 @@ type me struct {
 
 owenps := me{
 	Role: Role{
-		Title: "Backend Engineer",
+		Title:   "Backend Engineer",
 		Company: "Ledge",
 	},
 	GitHub: GitHub{
